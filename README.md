@@ -27,5 +27,6 @@ Then push the repo upstream
 That's it, you can now checkout your application at:
 
     http://yourappname-$yournamespace.rhcloud.com
-    where yourname your appname
+
+where yourname your appname
 
