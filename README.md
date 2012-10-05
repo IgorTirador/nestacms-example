@@ -12,8 +12,6 @@ Create a ruby-1.9 application
 
     rhc app create -a nestacms -t ruby-1.9
 
-where nestacms your appname
-
 Add this upstream nestacms repo
 
     cd nestacms
@@ -27,6 +25,4 @@ Then push the repo upstream
 That's it, you can now checkout your application at:
 
     http://yourappname-$yournamespace.rhcloud.com
-
-where yourname your appname
 
