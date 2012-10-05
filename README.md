@@ -17,7 +17,7 @@ where nestacms your appname
 Add this upstream nestacms repo
 
     cd nestacms
-    git remote add upstream -m master git://github.com/igortirador/nestacms-example.git
+    git remote add upstream -m master git://github.com/IgorTirador/nestacms-example.git
     git pull -s recursive -X theirs upstream master
     
 Then push the repo upstream
