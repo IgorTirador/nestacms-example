@@ -26,5 +26,6 @@ Then push the repo upstream
 
 That's it, you can now checkout your application at:
 
-    http://nestacms-$yournamespace.rhcloud.com
+    http://yourappname-$yournamespace.rhcloud.com
+    where yourname your appname
 
