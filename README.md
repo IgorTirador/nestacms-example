@@ -1,6 +1,8 @@
 NestaCMS on Openshift
 =============
+Long version how-to with manual installation there igortirador.github.com/blog/2012/10/06/nestacms-on-openshift/
 This git repository helps you get up and running quickly w/ a NestaCMS installation
+
 on OpenShift.
 
 Running on OpenShift
